@@ -1,0 +1,19 @@
+<!--W3C 支持一种基于 XML 的 DTD 代替者，它名为 XML Schema-->
+
+
+
+
+<!--Schema约束文件格式
+	xs:element name="note">
+
+	<xs:complexType>
+	<xs:sequence>
+	<xs:element name="to" type="xs:string"/>
+	<xs:element name="from" type="xs:string"/>
+	<xs:element name="heading" type="xs:string"/>
+	<xs:element name="body" type="xs:string"/>
+	</xs:sequence>
+	</xs:complexType>
+
+	</xs:element>
+-->
